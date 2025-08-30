@@ -1,0 +1,21 @@
+{
+  "name": "Marotta",
+  "short_name": "Aiuto allo studio a casa e in classe. Impara anche autonomamente.",
+  "description": "App per accedere ai contenuti base di matematica, scienze naturali e informatica.",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4CAF50",
+  "icons": [
+    {
+      "src": "icona.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icona.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
